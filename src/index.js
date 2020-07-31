@@ -1,3 +1,3 @@
-import variables from "/.variables";
+import variables from "./variables";
 
 export { variables };

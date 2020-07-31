@@ -1,6 +1,6 @@
 {
-  "name": "@sambhav-gore/stylevars",
-  "version": "0.0.1",
+  "name": "stylevars-test",
+  "version": "0.0.2",
   "description": "contains style variables",
   "main": "./lib",
   "browser": "./lib",
