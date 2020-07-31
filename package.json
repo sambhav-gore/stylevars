@@ -1,0 +1,22 @@
+{
+  "name": "@sambhav-gore/stylevars",
+  "version": "0.0.1",
+  "description": "contains style variables",
+  "main": "./lib",
+  "browser": "./lib",
+  "module": "./src",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.11.0",
+    "@babel/plugin-transform-runtime": "^7.11.0",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/register": "^7.10.5"
+  },
+  "dependencies": {}
+}
